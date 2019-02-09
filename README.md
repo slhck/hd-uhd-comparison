@@ -1,5 +1,7 @@
 # HD/UHD Comparison Test Data
 
+[![DOI](https://zenodo.org/badge/169866955.svg)](https://zenodo.org/badge/latestdoi/169866955)
+
 This data complements the following paper on HD/UHD comparison and gives raw rating results as well as questionnaire data:
 
 > The First of All Pleasures – Comparison of HD and UHD Video Quality with and without the Influence of the Labeling Effect
@@ -53,3 +55,15 @@ The answers regarding gender and age have been blinded in the questionnaire.
 ## Authors and Acknowledgement
 
 For this repository: Werner Robitza, Peter A. Kara
+
+To cite this data, please use the following information:
+
+```
+@electronic{kara2019data,
+    author = {Kara, Peter A. and Robitza, Werner and Pinter, Nikolett and Martini, Maria G. and Raake, Alexander and Simon, Aniko},
+    doi = {10.5281/zenodo.2561049},
+    title = {{HD/UHD Comparison Test Data}},
+    url = {https://zenodo.org/record/2561049},
+    year = {2019}
+}
+```
